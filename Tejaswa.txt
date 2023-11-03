@@ -1,0 +1,4 @@
+1. Adding the changes
+2. Want to stage the changes
+3. commit the changes
+4. push the changes
